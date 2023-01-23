@@ -2,7 +2,8 @@
 
 <!--
 **aaronhallaert/aaronhallaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronhallaert&count_private=true&show_icons=true)](https://github.com/aaronhallaert)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronhallaert&hide=Jupyter%20Notebook)]((https://github.com/aaronhallaert))
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
